@@ -4,6 +4,47 @@
     {
       "icon": {
         "paths": [
+          "M62.727 932.915h1374.88M62.727 499.684h1374.88M62.727 66.454h1374.88"
+        ],
+        "attrs": [
+          {
+            "fill": "none",
+            "strokeLinejoin": "round",
+            "strokeLinecap": "round",
+            "strokeMiterlimit": "4",
+            "strokeWidth": 139.63636363636363
+          }
+        ],
+        "width": 1489,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "mobile-menu"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "none",
+          "strokeLinejoin": "round",
+          "strokeLinecap": "round",
+          "strokeMiterlimit": "4",
+          "strokeWidth": 139.63636363636363
+        }
+      ],
+      "properties": {
+        "order": 47,
+        "id": 0,
+        "name": "mobile-menu",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 7,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
           "M1194.667 0h-1024c-70.4 0-127.36 57.6-127.36 128l-0.64 768c0 70.4 57.6 128 128 128h1024c70.4 0 128-57.6 128-128v-768c0-70.4-57.6-128-128-128zM1169.067 272l-452.48 282.88c-20.48 12.8-47.36 12.8-67.84 0l-452.48-282.88c-16-10.24-25.6-27.52-25.6-46.080 0-42.88 46.72-68.48 83.2-46.080l428.8 268.16 428.8-268.16c36.48-22.4 83.2 3.2 83.2 46.080 0 18.56-9.6 35.84-25.6 46.080z"
         ],
         "attrs": [],
@@ -23,7 +64,7 @@
         "name": "email",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 5,
       "iconIdx": 0
     },
@@ -48,7 +89,7 @@
         "name": "name",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 5,
       "iconIdx": 3
     },
@@ -73,7 +114,7 @@
         "name": "phone-modal",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 5,
       "iconIdx": 5
     },
@@ -99,7 +140,7 @@
         "name": "subscribe",
         "prevSize": 32
       },
-      "setIdx": 1,
+      "setIdx": 2,
       "setId": 5,
       "iconIdx": 7
     },
@@ -122,10 +163,10 @@
       "properties": {
         "order": 42,
         "id": 3,
-        "name": "checbox-on",
+        "name": "checbox-on1",
         "prevSize": 32
       },
-      "setIdx": 2,
+      "setIdx": 3,
       "setId": 4,
       "iconIdx": 0
     },
@@ -153,7 +194,7 @@
         "name": "modal-close",
         "prevSize": 32
       },
-      "setIdx": 2,
+      "setIdx": 3,
       "setId": 4,
       "iconIdx": 2
     },
@@ -203,7 +244,7 @@
         "name": "anten",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 0
     },
@@ -443,7 +484,7 @@
         "name": "astronaut",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 4
     },
@@ -481,7 +522,7 @@
         "name": "brand",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 8
     },
@@ -551,7 +592,7 @@
         "name": "clock",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 10
     },
@@ -598,7 +639,7 @@
         "name": "company",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 13
     },
@@ -639,7 +680,7 @@
         "name": "company2",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 15
     },
@@ -685,7 +726,7 @@
         "name": "company3",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 17
     },
@@ -713,7 +754,7 @@
         "name": "facebook",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 19
     },
@@ -745,7 +786,7 @@
         "name": "foster",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 21
     },
@@ -775,7 +816,7 @@
         "name": "instagram",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 23
     },
@@ -855,7 +896,7 @@
         "name": "laptop",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 25
     },
@@ -885,7 +926,7 @@
         "name": "linkedin",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 28
     },
@@ -913,7 +954,7 @@
         "name": "twitter",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 30
     },
@@ -942,7 +983,7 @@
         "name": "yaco",
         "prevSize": 32
       },
-      "setIdx": 4,
+      "setIdx": 5,
       "setId": 2,
       "iconIdx": 32
     }
