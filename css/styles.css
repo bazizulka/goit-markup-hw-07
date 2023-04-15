@@ -54,6 +54,23 @@ img {
     max-width: 1158px;
     margin: 0 auto;}
 
+    @media screen and (min-width: 480px) {
+            .container {
+                max-width: 428px;
+                margin: 0 auto;
+            }
+        }
+    
+    @media screen and (min-width: 768px) {
+            .container {
+                max-width: 768px;
+            }
+    @media screen and (min-width: 1200px) {
+            .container {
+                max-width: 1158px;
+            }
+        }
+
     /* CONTAINER-HEADER */
      .container-header {
     display: flex;
