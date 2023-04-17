@@ -1025,7 +1025,8 @@ img {
 /* Our Team */
 .section-team-bgc {
   background-color: var(--cloud);
-  padding: 96px 0;
+  /* padding: 96px 0; */
+  /* margin-bottom: 0px; */
 }
 
 @media screen and (min-width: 1158px) {
