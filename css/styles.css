@@ -747,6 +747,7 @@ img {
   border: 1px solid rgba(255, 255, 255, 0.3);
   padding-left: 16px;
   outline: none;
+  margin-bottom: 16px;
   transition: border-color var(--delay-brand) var(--timing-brand);
 }
 
@@ -765,6 +766,7 @@ img {
     padding-left: 16px;
     outline: none;
     transition: border-color var(--delay-brand) var(--timing-brand);
+    
   }
 }
 
@@ -1051,9 +1053,9 @@ img {
   margin-bottom: 72px;
   /* margin-right: calc(-1 * 24px); */
 }
-/* .section-team-list-card:last-child{
+.section-team-list-card:last-child{
   margin-bottom: 0;
-} */
+}
 @media screen and (min-width: 768px) {
   /* .section-team-list {
     margin-right: calc(-1 * 24px);
