@@ -945,7 +945,7 @@ img {
   .description-list {
     
     /* margin-right: calc(-1 * 24px); */
-    margin-bottom: calc(-1 * 72px);
+    /* margin-bottom: calc(-1 * 72px); */
   }
 .description-list-item:nth-child(2n) {
   margin-right: 0;
@@ -981,7 +981,7 @@ img {
   height: 64px;
 }
 
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 1157px) {
   .description-wraper-icon {
     display: none;
   }
@@ -1006,7 +1006,7 @@ img {
   margin-right: 0;
 }
 
-@media screen and (max-width: 1199px) {
+@media screen and (max-width: 1157px) {
   .sections-examples {
     display: none;
   }
