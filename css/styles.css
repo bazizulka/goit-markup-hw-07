@@ -938,14 +938,9 @@ img {
 .description-list-item {
   width: 100%;
   margin-bottom: 72px;
-  /* flex-basis: calc((100% - 72px) / 4);
-  margin-right: 24px; */
 }
 @media screen and (min-width: 768px) {
   .description-list {
-    
-    /* margin-right: calc(-1 * 24px); */
-    /* margin-bottom: calc(-1 * 72px); */
   }
 .description-list-item:nth-child(2n) {
   margin-right: 0;
@@ -955,7 +950,6 @@ img {
     flex-basis: calc(100% / 2 - 24px);
     /* flex-basis: calc((100% - 24px) / 2); */
      margin-right: 24px; 
-    margin-bottom: 72px;
   }
   
 }
