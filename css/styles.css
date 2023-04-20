@@ -942,9 +942,7 @@ img {
 @media screen and (min-width: 768px) {
   .description-list {
   }
-.description-list-item:nth-child(2n) {
-  margin-right: 0;
-}
+
   .description-list-item {
     /* width: 100%; */
     flex-basis: calc(100% / 2 - 24px);
@@ -1045,7 +1043,6 @@ img {
   background-color: var(--white);
   box-shadow: var(--team-box-shedow);
   border-radius: 0px 0px 4px 4px;
-  margin-bottom: 72px;
   /* margin-right: calc(-1 * 24px); */
 }
 .section-team-list-card:last-child{
