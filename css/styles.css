@@ -125,6 +125,11 @@ img {
     padding-top: 120px;
   }
 }
+@media screen and (min-width: 1158px) {
+  .common-section-style:last-child {
+    padding-bottom: 120px;
+  }
+}
 
 .subtitle {
   font-weight: 500;
