@@ -119,12 +119,10 @@ img {
 
 .common-section-style {
   padding-top: 96px;
-  padding-bottom: 96px;
 }
 @media screen and (min-width: 1158px) {
   .common-section-style {
     padding-top: 120px;
-    padding-bottom: 120px;
   }
 }
 
