@@ -123,6 +123,7 @@ img {
 @media screen and (min-width: 1158px) {
   .common-section-style {
     padding-top: 120px;
+    padding-bottom: 120px;
   }
 }
 @media screen and (min-width: 1158px) {
@@ -281,6 +282,11 @@ img {
     padding-top: 24px;
     padding-bottom: 24px;
     line-height: 1.5;
+  }
+  @media screen and (min-width: 1158px) {
+    .navig-adress-link {
+      font-size: 16px;
+    }
   }
   .navig-adress-list-item:first-child {
     padding-top: 0;
