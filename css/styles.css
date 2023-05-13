@@ -281,7 +281,6 @@ img {
   .navig-adress-link {
     padding-top: 24px;
     padding-bottom: 24px;
-    line-height: 1.5;
   }
   @media screen and (min-width: 1158px) {
     .navig-adress-link {
@@ -528,7 +527,6 @@ img {
 
 .footer-wraper-inner-title {
   font-weight: 500;
-  line-height: 1.5;
   color: var(--white);
   margin-bottom: 16px;
 }
@@ -602,7 +600,6 @@ img {
   align-items: center;
   gap: 16px;
   font-weight: 500;
-  line-height: 1.5;
   width: 164px;
   height: 40px;
   padding: 8px 24px;
@@ -730,7 +727,7 @@ img {
   }
 }
 
-@media screen and (min-width: 428px),
+@media screen and (max-width: 767px),
   (min-device-pixel-ratio: 2),
   (min-resolution: 192dpi),
   (min-resolution: 2dppx) {
@@ -742,7 +739,7 @@ img {
       url("../images/hero-image-mobile@2x.jpg");
   }
 }
-@media screen and (min-width: 428px) {
+@media screen and (max-width: 767px) {
   .hero-bgc {
     background-image: linear-gradient(
         rgba(46, 47, 66, 0.7),
@@ -751,7 +748,7 @@ img {
       url("../images/hero-image-mobile.jpg");
   }
 }
-@media screen and (min-width: 768px),
+@media screen and (max-width: 1157px),
   (min-device-pixel-ratio: 2),
   (min-resolution: 192dpi),
   (min-resolution: 2dppx) {
@@ -761,6 +758,15 @@ img {
         rgba(46, 47, 66, 0.7)
       ),
       url("../images/hero-image-tablet@2x.jpg");
+  }
+}
+@media screen and (max-width: 1157px) {
+  .hero-bgc {
+    background-image: linear-gradient(
+        rgba(46, 47, 66, 0.7),
+        rgba(46, 47, 66, 0.7)
+      ),
+      url("../images/hero-image-tablet.jpg");
   }
 }
 
@@ -791,7 +797,6 @@ img {
 .hero-title-btn {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  line-height: 1.5;
   letter-spacing: 0.04em;
   display: block;
   margin: 0 auto;
@@ -1095,7 +1100,6 @@ img {
 .portfol-btn-link {
   font-family: inherit;
   font-weight: 500;
-  line-height: 1.5;
   letter-spacing: 0.04em;
   background-color: var(--cloud);
   color: var(--primary-brand-iris);
